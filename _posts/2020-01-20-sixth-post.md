@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sun
 author: James
 featured: true
 categories: [self care]
-featured_image: https://source.unsplash.com/random?sig=2
+featured_image: https://source.unsplash.com/featured/?tree
 seo: 
     title: 
     description: 

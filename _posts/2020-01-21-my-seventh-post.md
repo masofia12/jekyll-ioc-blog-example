@@ -9,7 +9,7 @@ featured: true
 categories:
   - self care
   - food
-featured_image: https://source.unsplash.com/random?sig=10
+featured_image: https://source.unsplash.com/featured/?forest
 seo:
   title:
   description:
