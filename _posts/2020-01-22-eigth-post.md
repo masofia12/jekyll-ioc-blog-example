@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sun
 author: Tina
 featured: true
 categories: [life, self care]
-featured_image: https://source.unsplash.com/featured/?dog
+featured_image: https://source.unsplash.com/featured/?beach
 seo: 
     title: 
     description: 
